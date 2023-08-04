@@ -19,7 +19,7 @@ html
 </div>
 
 '''java
-System.out.prinyln("Código bem legal")
+System.out.prinyln("jeje linda, team de basquete IFSP BRA vai longe, amémmm")
 
-##Sobre a disciplina
+## Sobre a disciplina
 Na disciplina de LTP o estudante aprende como criar um servidor web em JAva.

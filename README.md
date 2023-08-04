@@ -1,8 +1,8 @@
 # Códigos da aula de LTP sobre GitHub
 Bem vindos a vida profissonal da Jeje
 
-## Sobre a disciplina
-ennifer Fioravante da Silva, 18 anos, trilhando meu caminho como futura programadora em Desenvolvimento Web pelo IFSP 🌐. Amante da tecnologia, apaixonada por desafios e entusiasta da natureza 🌳☕. Compartilhando minha jornada de aprendizado e contribuindo para projetos incríveis aqui no GitHub! Vamos juntos rumo ao futuro digital! 🚀✨
+## Sobre mim
+Jennifer Fioravante da Silva, 18 anos, trilhando meu caminho como futura programadora em Desenvolvimento Web pelo IFSP 🌐. Amante da tecnologia, apaixonada por desafios e entusiasta da natureza 🌳☕. Compartilhando minha jornada de aprendizado e contribuindo para projetos incríveis aqui no GitHub! Vamos juntos rumo ao futuro digital! 🚀✨
 
 Qualidades:
 - Desenvolvedora Web

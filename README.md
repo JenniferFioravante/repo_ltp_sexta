@@ -1,12 +1,20 @@
 # Códigos da aula de LTP sobre GitHub
-Bem vindos ao repositório de aula de LTP.
+Bem vindos a vida profissonal da Jeje
 
-Disciplinas:
--Desenvolvimento Web
--Sistemas web
--Ling de programação 3
--Dispositivos Moveis
+## Sobre a disciplina
+ennifer Fioravante da Silva, 18 anos, trilhando meu caminho como futura programadora em Desenvolvimento Web pelo IFSP 🌐. Amante da tecnologia, apaixonada por desafios e entusiasta da natureza 🌳☕. Compartilhando minha jornada de aprendizado e contribuindo para projetos incríveis aqui no GitHub! Vamos juntos rumo ao futuro digital! 🚀✨
 
+Qualidades:
+- Desenvolvedora Web
+- Desenvolvedora de sistemas web
+- Desenvolvedora de um aplicativo na Nuvem da Oracle (Oracle APEX)
+
+Conhecimentos:
+  - Banco de dados
+  - Sistemas Operacionais
+  - Linux
+  - Programação em java
+  
 Tire suas dúvidas: (http://openai.com)
 
 >**Contato: fioravante.j@aluno.ifsp.edu.br
@@ -22,5 +30,3 @@ html
 
 System.out.prinyln("jeje linda, team de basquete IFSP BRA vai longe, amémmm")
 
-## Sobre a disciplina
-Na disciplina de LTP o estudante aprende como criar um servidor web em JAva.
